@@ -1,0 +1,5 @@
+package scheduleuser;
+
+class ScheduleAnalyzer {
+	
+}
